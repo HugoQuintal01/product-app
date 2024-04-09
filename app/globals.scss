@@ -1,0 +1,15 @@
+@import "../app/style/reset";
+@import "../app/style/fonts";
+@import "../app/style/grid";
+@import "../app/style/reset";
+@import "../app/style/variables";
+@import "../app/components/menu/menu";
+@import "../app/components/header/header";
+@import "../app/components/product-list/productList";
+@import "../app/components/top-anchor/topAnchor";
+@import "../app/components/cart/cart";
+@import "../app/products/[productId]/product";
+
+html{
+    scroll-behavior: smooth;
+}
